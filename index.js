@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot Oficial","DumNet"];
+const statusMessages = ["Bot Oficial","Pixelcyb"];
 
 
 let currentIndex = 0;
